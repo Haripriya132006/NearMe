@@ -130,9 +130,5 @@ mall.html
  ![Alt text](<Screenshot 2023-11-15 094959.png>) 
  ![Alt text](<Screenshot 2023-11-15 095015.png>)
 
-
-## HTML VALIDATOR
-
-
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
