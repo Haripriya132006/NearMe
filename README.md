@@ -25,7 +25,7 @@ Execute the programs and publish them.
 
 ## CODE
 ```
-image map
+imagemap.html
 
 <html>
 <title>image map</title>
